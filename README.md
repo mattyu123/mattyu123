@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mattyu123
-- 👀 I’m interested in basketball, crypto and artificial intelligence
+- 👀 I’m interested in basketball, crypto and anime
 - 🌱 I’m currently learning HTML, CSS and JavaScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
