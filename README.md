@@ -9,7 +9,7 @@ I am a business kid turned programmer after discovering my passion for code! Cur
 
 ### 😃 When I'm Not Working
 When I'm not working or coding, you can find me: 
-🏀 Playing basketball at my local court
-🎶 Re-discovering my love of music through my clarinet 
-🎮 Relaxing with some video games 
-🏈 Cheering on the Buffalo Bills
+- 🏀 Playing basketball at my local court
+- 🎶 Re-discovering my love of music through my clarinet 
+- 🎮 Relaxing with some video games 
+- 🏈 Cheering on the Buffalo Bills
