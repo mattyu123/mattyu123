@@ -1,6 +1,6 @@
 # 👋 Hello World, my name is Matt!
 
-I am a business kid turned programmer after discovering my passion for code! Currently working in the crypto space as an Operations Associate at Wealthsimple. 
+I am a business kid turned programmer after discovering my passion for code! Currently working in the crypto space as a Product Operations Associate at Wealthsimple. 
 
 ### 👷 Checkout What I'm Working On 
 - [Apps Scripts Automation Project](https://github.com/mattyu123/settlement_automation) - An automation project at work that looks to remove the manual processing work that goes into our daily crypto settlement process
@@ -9,7 +9,8 @@ I am a business kid turned programmer after discovering my passion for code! Cur
 
 ### 😃 When I'm Not Working
 When I'm not working or coding, you can find me: 
-- 🏀 Playing basketball at my local court
-- 🎶 Re-discovering my love of music through my clarinet 
+- 🏐 Playing volleyball 
+- 🎶 Re-discovering my love of music through my guitar
+- 🍳 Putting on my best Gordon Ramsay impression
 - 🎮 Relaxing with some video games 
 - 🏈 Cheering on the Buffalo Bills
